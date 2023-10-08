@@ -15,7 +15,7 @@ kor_name,eng_name,team,release,end_dt,start_dt,savant_id,fangraphs_id,player_id
 배스,brian michael bass,시즌 중 방출,1,2011-12-31,2008-01-01,430654.0,2219.0,bassbr01
 션헨,sean michael henn,시즌 중 방출,1,2011-12-31,2005-01-01,430675.0,2147.0,hennse01
 로드리게스,aneury rodriguez,시즌 중 방출,1,2012-12-31,2011-01-01,444553.0,8948.0,rodrian01
-하이로 어센시오,jairo asencio,기아,0,2012-12-31,2009-01-01,446003.0,3332.0,valdelu01
+크리스 세든,chris seddon,sk,0,2012-12-31,2007-01-01,434629.0,3833.0,seddoch01
 조조 레이예스,jo-jo reyes,sk,0,2012-12-31,2007-01-01,457456.0,5559.0,reyesjo03
 개릿 올슨,garrett andrew olson,시즌 중 방출,1,2012-12-31,2007-01-01,457796.0,9889.0,olsonga01
 에릭 해커,eric lynn hacker,NC,0,2012-12-31,2009-01-01,459345.0,8743.0,hackeer01
@@ -23,13 +23,13 @@ kor_name,eng_name,team,release,end_dt,start_dt,savant_id,fangraphs_id,player_id
 다나 이브랜드,dana james eveland,한화,0,2012-12-31,2005-01-01,445968.0,5508.0,evelada01
 아담 윌크,adam robert wilk,NC,0,2012-12-31,2011-01-01,573244.0,8421.0,wilkad01
 듀웨인 빌로우,duane arthur below,기아,0,2012-12-31,2011-01-01,502102.0,3124.0,belowdu01
-에릭 해커,eric lynn hacker,NC,0,2012-12-31,2009-01-01,459345.0,8743.0,hackeer01
+로스 울프,ross wolf,sk,0,2013-12-31,2007-01-01,448693.0,4534.0,wolfro01
 앤드류 앨버스,andrew william albers,한화,0,2013-12-31,2013-01-01,452027.0,7853.0,alberan01
 크리스 볼스테드,chris volstad,시즌 중 방출,1,2013-12-31,2008-01-01,458690.0,9901.0,volstch01
 저스틴 토마스,justin joseph thomas,기아,0,2013-12-31,2008-01-01,476206.0,9910.0,thomaju01
 유네스키 마야,yunesky maya,두산,0,2013-12-31,2010-01-01,493337.0,11420.0,mayayu01
 에버렛 티포드,everett james teaford,엘지,0,2013-12-31,2011-01-01,501870.0,3732.0,teafoev01
-마틴,john dale martin,삼성,0,2013-12-31,1980-01-01,118343.0,1008179.0,martijo05
+마틴,j. d. martin,삼성,0,2013-12-31,2009-01-01,455605.0,3685.0,martijd01
 태드 웨버,thad g. weber,NC,0,2013-12-31,2012-01-01,519403.0,8036.0,weberth01
 토마스,justin joseph thomas,기아,0,2013-12-31,2008-01-01,476206.0,9910.0,thomaju01
 어센시오,jairo manuel asencio,기아,0,2013-12-31,2009-01-01,446003.0,3332.0,valdelu01
@@ -52,6 +52,7 @@ kor_name,eng_name,team,release,end_dt,start_dt,savant_id,fangraphs_id,player_id
 요한 플란데,yohan flande,삼성,0,2015-12-31,2014-01-01,456071.0,5057.0,flandyo01
 에릭 서캠프,eric m. surkamp,한화,0,2015-12-31,2011-01-01,474668.0,2540.0,surkaer01
 아놀드 레온,arnold leon,삼성,0,2015-12-31,2015-01-01,504186.0,5595.0,leonar01
+지크 스프루일,zeke spruill,기아,0,2015-12-31,2013-01-01,543809.0,3873.0,spruize01
 앨런 웹스터,allen webster,시즌 중 방출,1,2015-12-31,2013-01-01,543903.0,3993.0,webstal01
 스캇 코프랜드,scott reast copeland,시즌 중 방출,1,2015-12-31,2015-01-01,571577.0,10706.0,copelsc01
 서캠프,eric michael surkamp,한화,0,2015-12-31,2011-01-01,474668.0,2540.0,surkaer01
@@ -113,12 +114,16 @@ kor_name,eng_name,team,release,end_dt,start_dt,savant_id,fangraphs_id,player_id
 라이언 카펜터,ryan carpenter,한화,0,2020-12-31,2018-01-01,543001.0,12699.0,carpery01
 앤드류 수아레즈,andrew suárez,엘지,0,2020-12-31,2018-01-01,605498.0,18300.0,suarean01
 몽고메리,mike montgomery,삼성,0,2020-12-31,2015-01-01,543557.0,4869.0,montgmi01
+웨스 벤자민,wes benjamin,kt,0,2021-12-31,2020-01-01,605138.0,19243.0,benjawe01
+브랜든 와델,brandon waddell,두산,0,2021-12-31,2020-01-01,663399.0,18347.0,waddebr01
 로버트 스탁,robert anthony stock,두산,0,2021-12-31,2018-01-01,476594.0,6576.0,stockro01
 알버트 수아레즈,albert suárez,삼성,0,2021-12-31,2016-01-01,544150.0,6175.0,suareal01
 애덤 플럿코,adam plutko,엘지,0,2021-12-31,2016-01-01,592644.0,15846.0,plutkad01
 이반 노바,iván manuel nova,시즌중 방출,1,2021-12-31,2010-01-01,467100.0,1994.0,novaiv01
 숀 모리만도,shawn morimando,SSG,0,2021-12-31,2016-01-01,596049.0,13606.0,morimsh01
+맷 더모디,matt dermody,Nc,0,2021-12-31,2016-01-01,571616.0,14844.0,dermoma01
 글렌 스파크맨,glenn sparkman,롯데,0,2021-12-31,2017-01-01,642098.0,15200.0,sparkgl01
 찰리 반즈,charlie barnes,롯데,0,2021-12-31,2021-01-01,656212.0,19865.0,barnech01
+션 놀린,sean nolin,기아,0,2021-12-31,2013-01-01,543594.0,11341.0,nolinse01
 펠릭스 페냐,félix peña,한화,0,2021-12-31,2016-01-01,570240.0,13403.0,penafe01
 예프리 라미레즈,yefry ramírez,한화,0,2021-12-31,2018-01-01,606162.0,15655.0,ramirye01
