@@ -39,7 +39,7 @@ https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&t
 --------------------------------------------------
 j. d. martin
 thad g. weber
-justin joseph thomas
+félix peña
 jairo manuel asencio
 alfredo figaro
 ryan robert feierabend
@@ -47,7 +47,7 @@ lucas harrell
 evan david meek
 anthony ray swarzak
 josh lindblom
-https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=3685%2C8036%2C9910%2C3332%2C8404%2C6336%2C7541%2C5109%2C7466%2C7882
+https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=3685%2C8036%2C3332%2C8404%2C6336%2C7541%2C5109%2C7466%2C7882%2C13403
 
 --------------------------------------------------
 josh stinson
@@ -64,7 +64,7 @@ https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&t
 
 --------------------------------------------------
 yohan flande
-eric m. surkamp
+sean nolin
 arnold leon
 zeke spruill
 allen webster
@@ -73,7 +73,7 @@ eric michael surkamp
 yohan pino
 sugar ray,marimon
 jeff manship
-https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=5057%2C2540%2C5595%2C3873%2C3993%2C10706%2C6955%2C6027%2C6865
+https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=5057%2C2540%2C5595%2C3873%2C3993%2C10706%2C6955%2C6027%2C6865%2C11341
 
 --------------------------------------------------
 carlos villanueva
@@ -116,7 +116,7 @@ https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&t
 
 --------------------------------------------------
 jake thompson
-eddie butler
+yefry ramírez
 christian louis patrick friedrich
 ben lively
 chris flexen
@@ -125,7 +125,7 @@ ricardo antonio pinto
 mike wright
 odrisamer despaigne
 aaron lee brooks
-https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=14371%2C13453%2C7942%2C14932%2C13896%2C11694%2C16318%2C12586%2C16017%2C12272
+https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=14371%2C7942%2C14932%2C13896%2C11694%2C16318%2C12586%2C16017%2C12272%2C15655
 
 --------------------------------------------------
 drew gagnon
@@ -159,7 +159,4 @@ shawn morimando
 matt dermody
 glenn sparkman
 charlie barnes
-sean nolin
-félix peña
-yefry ramírez
-https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=1994%2C13606%2C14844%2C15200%2C19865%2C11341%2C13403%2C15655
+https://www.fangraphs.com/leaders/major-league?pos=all&stats=pit&lg=all&qual=0&type=8&month=0&ind=1&startdate=&enddate=&season1=2003&season=2022&pageitems=2000000000&players=1994%2C13606%2C14844%2C15200%2C19865
