@@ -1,0 +1,524 @@
+,desc,type
+pitch_type,,svt
+game_date,,svt
+release_speed,투구속도,svt
+release_pos_x,공의 수평발사 위치,svt
+release_pos_z,공의 수직발사 위치,svt
+player_name,,svt
+batter,,svt
+pitcher,,svt
+events,공의 결과,svt
+description,공의 결과 설명,svt
+spin_dir,,svt
+spin_rate_deprecated,,svt
+break_angle_deprecated,,svt
+break_length_deprecated,,svt
+zone,존의 위치,svt
+des,,svt
+game_type,,svt
+stand,,svt
+p_throws,우완 or 좌완,svt
+home_team,,svt
+away_team,,svt
+type,"B = ball, S = strike, X = in play",svt
+hit_location,최초로 공을 잡는 야수 위치,svt
+bb_type,타격된 공의 종류,svt
+balls,볼,svt
+strikes,스트라이크,svt
+game_year,,svt
+pfx_x,포수 시점에서 공의 수평 이동거리,svt
+pfx_z,포수 시점에서 공의 수직 이동거리,svt
+plate_x,홈플레이트 통과할때 공의 수평위치,svt
+plate_z,홈플레이트 통과할때 공의 수직위치,svt
+on_3b,,svt
+on_2b,,svt
+on_1b,,svt
+outs_when_up,투구 전 아웃의 횟수,svt
+inning,투구 전 이닝,svt
+inning_topbot,,svt
+hc_x,타격된 공의 x좌표 위치,svt
+hc_y,타격된 공의 y좌표 위치,svt
+tfs_deprecated,,svt
+tfs_zulu_deprecated,,svt
+fielder_2,,svt
+umpire,,svt
+sv_id,,svt
+vx0,x차원 피치의 속도,svt
+vy0,y차원 피치의 속도,svt
+vz0,z차원 피치의 속도,svt
+ax,x차원 피치의 가속도,svt
+ay,y차원 피치의 가속도,svt
+az,z차원 피치의 가속도,svt
+sz_top,,svt
+sz_bot,,svt
+hit_distance_sc,,svt
+launch_speed,,svt
+launch_angle,,svt
+effective_speed,,svt
+release_spin_rate,,svt
+release_extension,,svt
+game_pk,,svt
+pitcher.1,,svt
+fielder_2.1,,svt
+fielder_3,,svt
+fielder_4,,svt
+fielder_5,,svt
+fielder_6,,svt
+fielder_7,,svt
+fielder_8,,svt
+fielder_9,,svt
+release_pos_y,투구의 발사위치 포수 시각에서 측정한 피트 단위거리,svt
+estimated_ba_using_speedangle,,svt
+estimated_woba_using_speedangle,,svt
+woba_value,,svt
+woba_denom,,svt
+babip_value,,svt
+iso_value,,svt
+launch_speed_angle,,svt
+at_bat_number,,svt
+pitch_number,타석당 투구수,svt
+pitch_name,statcast데이터에서 파생된 투구 이름,svt
+home_score,,svt
+away_score,,svt
+bat_score,,svt
+fld_score,,svt
+post_away_score,,svt
+post_home_score,,svt
+post_bat_score,,svt
+post_fld_score,,svt
+if_fielding_alignment,,svt
+of_fielding_alignment,,svt
+spin_axis,0에서 360도까지의 2D X-Z 평면에서의 스핀 축 ,svt
+delta_home_win_exp,,svt
+delta_run_exp,,svt
+class,,fan
+Throws,던지는 손,fan
+xMLBAMID,,fan
+Name,이름,fan
+Team,,fan
+Season,해당 년도,fan
+Age,나이,fan
+AgeR,,fan
+SeasonMin,,fan
+SeasonMax,,fan
+W,승,fan
+L,패스트볼 비율,fan
+ERA,((ER*9)/IP) ,fan
+G,등판,fan
+GS,선발등판,fan
+CG,완투,fan
+ShO,완봉,fan
+SV,세이브,fan
+BS,블론세이브,fan
+IP,이닝,fan
+TBF,상대한 타자 수,fan
+H,피안타,fan
+R,실점,fan
+ER,자책점,fan
+HR,홈런,fan
+BB,피사사구,fan
+IBB,고의사구,fan
+HBP,몸에 맞는 공,fan
+WP,폭투,fan
+BK,보크,fan
+SO,탈삼진,fan
+GB,땅볼,fan
+FB,플라이볼,fan
+LD,라인드라이브,fan
+IFFB,인필드 플라이,fan
+Pitches,투구 수 ,fan
+Balls,볼 수 ,fan
+Strikes,스트라이크 수,fan
+RS,투수 팀이 출전하는 동안 득점한  득점,fan
+IFH,내야 안타,fan
+BU,,fan
+BUH,번트 안타,fan
+K/9,9이닝당 삼진,fan
+BB/9,9이닝당 볼넷,fan
+K/BB,,fan
+H/9,,fan
+HR/9,,fan
+AVG,"피안타율,H/AB",fan
+WHIP,이닝당 출루 허용률,fan
+BABIP,"타구가 안타가 될 진짜 확률, (H-HR)/(AB-K-HR+SF)",fan
+LOB%,잔루처리율,fan
+FIP,수비 무관 평자,fan
+GB/FB,,fan
+LD%,,fan
+GB%,,fan
+FB%,패스트볼 비율,fan
+IFFB%,플라이 중 내야 플라이 비율,fan
+HR/FB,,fan
+IFH%,내야 안타 비율,fan
+BUH%,,fan
+TTO%,수비수와 무관하게 이뤄지는 타석의 결과,fan
+CFraming,,fan
+Starting,,fan
+Start-IP,,fan
+Relieving,,fan
+Relief-IP,,fan
+RAR,,fan
+WAR,,fan
+Dollars,war을 돈으로 환산한 가치,fan
+RA9-Wins,,fan
+LOB-Wins,,fan
+BIP-Wins,,fan
+BS-Wins,,fan
+tERA,,fan
+xFIP,,fan
+WPA,,fan
+#NAME?,,fan
+#NAME?,,fan
+RE24,,fan
+REW,,fan
+pLI,,fan
+inLI,,fan
+gmLI,,fan
+exLI,,fan
+Pulls,,fan
+Games,,fan
+WPA/LI,,fan
+Clutch,,fan
+FB%1,,fan
+FBv,패스트볼 평균 구속,fan
+SL%,슬라이더 비율,fan
+SLv,슬라이더 평균 구속,fan
+CT%,,fan
+CTv,,fan
+CB%,커브 비율,fan
+CBv,커브 평균 구속,fan
+CH%,체인지업 비율,fan
+CHv,체인지업 평균 구속,fan
+SF%,,fan
+SFv,,fan
+KN%,,fan
+KNv,,fan
+XX%,,fan
+PO%,,fan
+wFB,,fan
+wSL,,fan
+wCT,,fan
+wCB,,fan
+wCH,,fan
+wSF,,fan
+wKN,,fan
+wFB/C,,fan
+wSL/C,,fan
+wCT/C,,fan
+wCB/C,,fan
+wCH/C,,fan
+wSF/C,,fan
+wKN/C,,fan
+O-Swing%,,fan
+Z-Swing%,,fan
+Swing%,,fan
+O-Contact%,,fan
+Z-Contact%,,fan
+Contact%,,fan
+Zone%,,fan
+F-Strike%,,fan
+SwStr%,,fan
+CStr%,,fan
+C+SwStr%,,fan
+HLD,,fan
+SD,,fan
+MD,,fan
+ERA-,,fan
+FIP-,,fan
+xFIP-,,fan
+K%,,fan
+BB%,,fan
+K-BB%,,fan
+SIERA,투수의 성적을 보다 정확하게 포착하려고 시도하는 방어율 추정기,fan
+kwERA,,fan
+RS/9,,fan
+E-F,,fan
+Pull,,fan
+Cent,,fan
+Oppo,,fan
+Soft,,fan
+Med,,fan
+Hard,,fan
+bipCount,,fan
+Pull%,,fan
+Cent%,,fan
+Oppo%,,fan
+Soft%,,fan
+Med%,,fan
+Hard%,,fan
+K/9+,,fan
+BB/9+,,fan
+K/BB+,,fan
+H/9+,,fan
+HR/9+,,fan
+AVG+,,fan
+WHIP+,,fan
+BABIP+,,fan
+LOB%+,,fan
+K%+,,fan
+BB%+,,fan
+LD%+,,fan
+GB%+,,fan
+FB%+,,fan
+HRFB%+,,fan
+Pull%+,,fan
+Cent%+,,fan
+Oppo%+,,fan
+Soft%+,,fan
+Med%+,,fan
+Hard%+,,fan
+xERA,,fan
+pb_o_CH,,fan
+pb_s_CH,,fan
+pb_c_CH,,fan
+pb_o_CU,,fan
+pb_s_CU,,fan
+pb_c_CU,,fan
+pb_o_FF,,fan
+pb_s_FF,,fan
+pb_c_FF,,fan
+pb_o_SI,,fan
+pb_s_SI,,fan
+pb_c_SI,,fan
+pb_o_SL,,fan
+pb_s_SL,,fan
+pb_c_SL,,fan
+pb_o_KC,,fan
+pb_s_KC,,fan
+pb_c_KC,,fan
+pb_o_FC,,fan
+pb_s_FC,,fan
+pb_c_FC,,fan
+pb_o_FS,,fan
+pb_s_FS,,fan
+pb_c_FS,,fan
+pb_overall,,fan
+pb_stuff,,fan
+pb_command,,fan
+pb_xRV100,,fan
+pb_ERA,,fan
+sp_s_CH,,fan
+sp_l_CH,,fan
+sp_p_CH,,fan
+sp_s_CU,,fan
+sp_l_CU,,fan
+sp_p_CU,,fan
+sp_s_FF,,fan
+sp_l_FF,,fan
+sp_p_FF,,fan
+sp_s_SI,,fan
+sp_l_SI,,fan
+sp_p_SI,,fan
+sp_s_SL,,fan
+sp_l_SL,,fan
+sp_p_SL,,fan
+sp_s_KC,,fan
+sp_l_KC,,fan
+sp_p_KC,,fan
+sp_s_FC,,fan
+sp_l_FC,,fan
+sp_p_FC,,fan
+sp_s_FS,,fan
+sp_l_FS,,fan
+sp_p_FS,,fan
+sp_s_FO,,fan
+sp_l_FO,,fan
+sp_p_FO,,fan
+sp_stuff,,fan
+sp_location,,fan
+sp_pitching,,fan
+PPTV,,fan
+CPTV,,fan
+BPTV,,fan
+DSV,,fan
+DGV,,fan
+BTV,,fan
+rPPTV,,fan
+rCPTV,,fan
+rBPTV,,fan
+rDSV,,fan
+rDGV,,fan
+rBTV,,fan
+EBV,,fan
+ESV,,fan
+rFTeamV,,fan
+rBTeamV,,fan
+rTV,,fan
+pfxFA%,포심 비율,fan
+pfxFT%,투심비율,fan
+pfxFC%,,fan
+pfxFS%,,fan
+pfxFO%,,fan
+pfxSI%,싱커비율,fan
+pfxSL%,슬라이더 비율,fan
+pfxCU%,커브 비율,fan
+pfxKC%,,fan
+pfxEP%,,fan
+pfxCH%,,fan
+pfxSC%,,fan
+pfxKN%,,fan
+pfxUN%,,fan
+pfxvFA,패스트볼 평균구속,fan
+pfxvFT,,fan
+pfxvFC,,fan
+pfxvFS,,fan
+pfxvFO,,fan
+pfxvSI,,fan
+pfxvSL,슬라이더 평균구속,fan
+pfxvCU,커브 평균 구속,fan
+pfxvKC,,fan
+pfxvEP,,fan
+pfxvCH,체인지업 평균 구속,fan
+pfxvSC,,fan
+pfxvKN,,fan
+pfxFA-X,패스트볼 x축 무브먼트,fan
+pfxFT-X,,fan
+pfxFC-X,,fan
+pfxFS-X,,fan
+pfxFO-X,,fan
+pfxSI-X,,fan
+pfxSL-X,슬라이더 x축 무브먼트,fan
+pfxCU-X,커브 x축 무브먼트,fan
+pfxKC-X,,fan
+pfxEP-X,,fan
+pfxCH-X,체인지업 x축 무브먼트,fan
+pfxSC-X,,fan
+pfxKN-X,,fan
+pfxFA-Z,z 축 무브먼트,fan
+pfxFT-Z,,fan
+pfxFC-Z,,fan
+pfxFS-Z,,fan
+pfxFO-Z,,fan
+pfxSI-Z,,fan
+pfxSL-Z,z 축 무브먼트,fan
+pfxCU-Z,z 축 무브먼트,fan
+pfxKC-Z,,fan
+pfxEP-Z,,fan
+pfxCH-Z,z 축 무브먼트,fan
+pfxSC-Z,,fan
+pfxKN-Z,,fan
+pfxwFA,구종가치?,fan
+pfxwFT,,fan
+pfxwFC,,fan
+pfxwFS,,fan
+pfxwFO,,fan
+pfxwSI,,fan
+pfxwSL,구종가치?,fan
+pfxwCU,구종가치?,fan
+pfxwKC,,fan
+pfxwEP,,fan
+pfxwCH,구종가치?,fan
+pfxwSC,,fan
+pfxwKN,,fan
+pfxwFA/C,,fan
+pfxwFT/C,,fan
+pfxwFC/C,,fan
+pfxwFS/C,,fan
+pfxwFO/C,,fan
+pfxwSI/C,,fan
+pfxwSL/C,,fan
+pfxwCU/C,,fan
+pfxwKC/C,,fan
+pfxwEP/C,,fan
+pfxwCH/C,,fan
+pfxwSC/C,,fan
+pfxwKN/C,,fan
+pfxO-Swing%,스트라이크존 밖 스윙 / 스트라이크존 밖 투구 ,fan
+pfxZ-Swing%,스트라이크존 내 스윙 / 스트라이크존 내 투구 ,fan
+pfxSwing%,스윙/ 전체 투구,fan
+pfxO-Contact%,스트라이크존 밖 컨택 / 스트라이크존 밖 스윙 ,fan
+pfxZ-Contact%,스트라이크존 내 컨택 / 스트라이크존 내 스윙 ,fan
+pfxContact%,컨택 / 스윙,fan
+pfxZone%,스트라이크존 내 투구 / 전체투구 ,fan
+pfxPace,,fan
+piCH%,,fan
+piCS%,,fan
+piCU%,,fan
+piFA%,,fan
+piFC%,,fan
+piFS%,,fan
+piKN%,,fan
+piSB%,,fan
+piSI%,,fan
+piSL%,,fan
+piXX%,,fan
+pivCH,,fan
+pivCS,,fan
+pivCU,,fan
+pivFA,,fan
+pivFC,,fan
+pivFS,,fan
+pivKN,,fan
+pivSB,,fan
+pivSI,,fan
+pivSL,,fan
+pivXX,,fan
+piCH-X,,fan
+piCS-X,,fan
+piCU-X,,fan
+piFA-X,,fan
+piFC-X,,fan
+piFS-X,,fan
+piKN-X,,fan
+piSB-X,,fan
+piSI-X,,fan
+piSL-X,,fan
+piXX-X,,fan
+piCH-Z,,fan
+piCS-Z,,fan
+piCU-Z,,fan
+piFA-Z,,fan
+piFC-Z,,fan
+piFS-Z,,fan
+piKN-Z,,fan
+piSB-Z,,fan
+piSI-Z,,fan
+piSL-Z,,fan
+piXX-Z,,fan
+piwCH,,fan
+piwCS,,fan
+piwCU,,fan
+piwFA,,fan
+piwFC,,fan
+piwFS,,fan
+piwKN,,fan
+piwSB,,fan
+piwSI,,fan
+piwSL,,fan
+piwXX,,fan
+piwCH/C,,fan
+piwCS/C,,fan
+piwCU/C,,fan
+piwFA/C,,fan
+piwFC/C,,fan
+piwFS/C,,fan
+piwKN/C,,fan
+piwSB/C,,fan
+piwSI/C,,fan
+piwSL/C,,fan
+piwXX/C,,fan
+piO-Swing%,,fan
+piZ-Swing%,,fan
+piSwing%,,fan
+piO-Contact%,,fan
+piZ-Contact%,,fan
+piContact%,,fan
+piZone%,,fan
+piPace,,fan
+Events,,fan
+EV,,fan
+LA,,fan
+Barrels,,fan
+Barrel%,,fan
+maxEV,,fan
+HardHit,,fan
+HardHit%,,fan
+Q,,fan
+TG,,fan
+TIP,,fan
+PlayerNameRoute,,fan
+PlayerName,,fan
+TeamName,,fan
+TeamNameAbb,,fan
+teamid,,fan
+playerid,,fan
